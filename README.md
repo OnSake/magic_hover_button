@@ -1,5 +1,5 @@
 # 🔥 Animation Magique sur un Bouton
-### 🔥 Langages utilisés
+### 💻 Langages utilisés
 
 - HTML
 - CSS
@@ -7,7 +7,7 @@
 ### 🔥 Preview
 ![](/preview.png)
 
-### 🔥 Divers
+### 📜 Divers
 
 Ce projet provient d'un tuto disponible sur la chaine de [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
